@@ -4,7 +4,7 @@
 
 </p>
 
-<p align="center">This is a comprehensive project developed as part of the IWT(Internet and Web Technologies) module for the Year 1 Semester 2. The  Online Banking Web Application is designed to provide a feature-rich online banking experience with essential functionalities such as CRUD operations, admin and user dashboards, user login and sign-in, contact us page, user and admin management, and fund transfer capabilities across local and interbank accounts.</p>
+<p align="center">This is a comprehensive group project developed as part of the IWT(Internet and Web Technologies) module for the Year 1 Semester 2. The  Online Banking Web Application is designed to provide a feature-rich online banking experience with essential functionalities such as CRUD operations, admin and user dashboards, user login and sign-in, contact us page, user and admin management, and fund transfer capabilities across local and interbank accounts.</p>
 
 ## Technologies Used
 
